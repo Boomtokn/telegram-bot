@@ -9,7 +9,7 @@
   "dependencies": {
     "@grammyjs/conversations": "^1.1.2",
     "@grammyjs/menu": "^1.2.1",
-    "@roziscoding/grammy-autoquote": "^1.1.2",
+    "@roziscoding/grammy-autoquote": "^2.0.8",
     "@types/node": "^20.5.7",
     "axios": "^1.5.0",
     "cross-fetch": "^4.0.0",
