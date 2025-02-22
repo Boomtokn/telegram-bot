@@ -7,7 +7,7 @@
     "bot": "ts-node-dev ./botter.ts"
   },
   "dependencies": {
-    "@grammyjs/conversations": "^1.1.2",
+    "@grammyjs/conversations": "^2.0.1",
     "@grammyjs/menu": "^1.2.1",
     "@roziscoding/grammy-autoquote": "^1.1.2",
     "@types/node": "^20.5.7",
